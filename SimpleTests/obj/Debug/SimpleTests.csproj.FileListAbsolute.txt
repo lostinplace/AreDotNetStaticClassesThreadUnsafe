@@ -1,0 +1,7 @@
+C:\dev\git\AreDotNetStaticClassesThreadUnsafe\SimpleTests\bin\Debug\SimpleTests.dll
+C:\dev\git\AreDotNetStaticClassesThreadUnsafe\SimpleTests\bin\Debug\SimpleTests.pdb
+C:\dev\git\AreDotNetStaticClassesThreadUnsafe\SimpleTests\bin\Debug\ThisIsNotTheMostUnsafeLibraryInTheWorld.dll
+C:\dev\git\AreDotNetStaticClassesThreadUnsafe\SimpleTests\bin\Debug\ThisIsNotTheMostUnsafeLibraryInTheWorld.pdb
+C:\dev\git\AreDotNetStaticClassesThreadUnsafe\SimpleTests\obj\Debug\SimpleTests.csprojResolveAssemblyReference.cache
+C:\dev\git\AreDotNetStaticClassesThreadUnsafe\SimpleTests\obj\Debug\SimpleTests.dll
+C:\dev\git\AreDotNetStaticClassesThreadUnsafe\SimpleTests\obj\Debug\SimpleTests.pdb
